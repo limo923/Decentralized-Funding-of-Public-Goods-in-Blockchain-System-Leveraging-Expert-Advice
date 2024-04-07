@@ -2,8 +2,6 @@
 
 **Simple Implementation of Smart Contract in Paper "Decentralized Funding of Public Goods in Blockchain System: Leveraging Expert Advice"**
 
-![Github Actions](https://github.com/foundry-rs/forge-template/workflows/CI/badge.svg)
-
 ## Getting Started
 
 ```sh
